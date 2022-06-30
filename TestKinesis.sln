@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKinesis", "TestKinesis\TestKinesis.csproj", "{78253FED-2801-4B72-8BEB-61C442792E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinesisProducer", "KinesisProducer\KinesisProducer.csproj", "{924D63C1-AD64-4E9B-A1FD-C4C5B620CD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78253FED-2801-4B72-8BEB-61C442792E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78253FED-2801-4B72-8BEB-61C442792E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78253FED-2801-4B72-8BEB-61C442792E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78253FED-2801-4B72-8BEB-61C442792E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924D63C1-AD64-4E9B-A1FD-C4C5B620CD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D63C1-AD64-4E9B-A1FD-C4C5B620CD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D63C1-AD64-4E9B-A1FD-C4C5B620CD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D63C1-AD64-4E9B-A1FD-C4C5B620CD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BABDCD-C12B-46D6-BB64-A7BEEA072395}
+	EndGlobalSection
+EndGlobal
